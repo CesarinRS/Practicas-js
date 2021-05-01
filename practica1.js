@@ -9,3 +9,7 @@ var bol = true;
 var und = undefined;
 
 var nul = null; 
+
+
+
+const nombre = "cesar";
